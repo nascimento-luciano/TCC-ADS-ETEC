@@ -8,3 +8,5 @@ O sistema deve permitir ao usuário:
 - Inserir fotos dos pratos preparados.
 
 A plataforma deve ser intuitiva e fácil de usar, proporcionando uma experiência agradável na organização e avaliação de receitas culinárias.
+
+https://pratocompartilha.000webhostapp.com
